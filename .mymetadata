@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="PIMS"
+  id="myeclipse.1452386801694"
+  context-root="/PIMS"
+  j2ee-spec="5.0"
+  archive="PIMS.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
